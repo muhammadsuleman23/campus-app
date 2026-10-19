@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Professional Body Style */
+body {
+  background-color: #f3f4f6;
+  font-family: sans-serif;
+}
